@@ -69,7 +69,7 @@ The positions on the board are
 7|8|9
 
 If you place an invalid move with the tool call, the tool will tell you, so try another position.
-You can also observe the board without making a move.
+You can also observe the board without making a move. You should oberve the board as your first move.
 If you believe you have won the game, call the tool `check_if_llm_won` as the last step
 to confirm if you have won.
 """
